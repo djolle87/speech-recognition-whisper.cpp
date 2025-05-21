@@ -1,0 +1,4 @@
+gradio==5.29.0
+ane_transformers
+openai-whisper
+coremltools
