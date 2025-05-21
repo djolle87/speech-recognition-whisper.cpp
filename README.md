@@ -74,7 +74,7 @@ cmake --build build -j --config Release
 Once setup is complete, launch the Gradio app:
 
 ```bash
-python app/main.py
+python main.py
 ```
 
 
